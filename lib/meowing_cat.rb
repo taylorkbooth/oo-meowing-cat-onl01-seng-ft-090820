@@ -3,8 +3,8 @@ class Cat
 end
 
 def meow
-    puts "meow!"
-end
+    send(puts "meow!"
+)end
 
 maru = Cat.new
 maru.name
