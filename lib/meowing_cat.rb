@@ -3,7 +3,7 @@ class Cat
 end
 
 def meow
-    self.puts "meow!"
+    puts "meow!"
     
 end
 
