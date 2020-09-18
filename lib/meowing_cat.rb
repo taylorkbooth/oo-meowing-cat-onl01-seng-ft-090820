@@ -3,7 +3,7 @@ class Cat
 end
 
 def meow
-    send(:puts "meow!")
+    self.puts "meow!"
     
 end
 
